@@ -1,0 +1,9 @@
+Using cuda device
+private x_test.shape: (2000, 3072)
+### Test ###
+Restored model parameters from ../saved_models/pretrained_v1/model-30.ckpt
+Checkpoint 30 Test accuracy: 0.7620
+Restored model parameters from ../saved_models/pretrained_v1/model-40.ckpt
+Checkpoint 40 Test accuracy: 0.7810
+Restored model parameters from ../saved_models/pretrained_v1/model-50.ckpt
+Checkpoint 50 Test accuracy: 0.7895

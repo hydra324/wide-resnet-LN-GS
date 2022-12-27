@@ -1,0 +1,9 @@
+Using cuda device
+private x_test.shape: (2000, 3072)
+### Test ###
+Restored model parameters from ../saved_models/wrn_v2/model-230.ckpt
+Checkpoint 230 Test accuracy: 0.8185
+Restored model parameters from ../saved_models/wrn_v2/model-240.ckpt
+Checkpoint 240 Test accuracy: 0.8190
+Restored model parameters from ../saved_models/wrn_v2/model-250.ckpt
+Checkpoint 250 Test accuracy: 0.8220

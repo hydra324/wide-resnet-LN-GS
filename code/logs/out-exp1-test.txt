@@ -1,0 +1,14 @@
+Using cuda device
+x_train: (50000, 3072)
+y_train: (50000,)
+x_test: (10000, 3072)
+y_test: (10000,)
+### Test ###
+Restored model parameters from ../saved_models/model-170.ckpt
+Checkpoint 170 Test accuracy: 0.9091
+Restored model parameters from ../saved_models/model-180.ckpt
+Checkpoint 180 Test accuracy: 0.9105
+Restored model parameters from ../saved_models/model-190.ckpt
+Checkpoint 190 Test accuracy: 0.9027
+Restored model parameters from ../saved_models/model-200.ckpt
+Checkpoint 200 Test accuracy: 0.9103
